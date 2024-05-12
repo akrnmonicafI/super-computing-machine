@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Suggestion Insert Button - Insert a search suggestion into the URL bar by pressing a button on the right of it
