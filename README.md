@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
