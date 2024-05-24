@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
