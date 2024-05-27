@@ -1,1 +1,1 @@
-Disable tab Swiping (Only available on iOS 12 and up)
+URL Bar Swipe Left, Right, and Down Gestures
