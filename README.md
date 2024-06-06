@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
