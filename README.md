@@ -1,1 +1,1 @@
-Disable Tab Limit - Disables the default tab limit (varies between devices)
+Toolbar Swipe Left, Right, and Up / Down Gestures
